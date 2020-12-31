@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://xueyuanjun.com/books/high-performance-redis" target="_blank">
-        <img src="https://qcdn.xueyuanjun.com/storage/uploads/images/cover_page/2020-12/thumbs-850-350/Jietu20201204-184811.jpg">
+        <img src="https://xueyuanjun.com/storage/uploads/images/cover_page/2020-12/thumbs-850-350/Jietu20201204-184811.jpg">
     </a>
 </p>
 
