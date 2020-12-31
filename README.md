@@ -1,61 +1,29 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    <a href="https://xueyuanjun.com/books/high-performance-redis" target="_blank">
+        <img src="https://qcdn.xueyuanjun.com/storage/uploads/images/cover_page/2020-12/thumbs-850-350/Jietu20201204-184811.jpg">
+    </a>
 </p>
 
-## About Laravel
+## 高性能 Redis 系列教程
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 实战入门
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- [安装部署及基本数据结构介绍](https://xueyuanjun.com/post/22164)
+- [基于 Redis 实现全局访问计数器（PV 统计）功能](https://xueyuanjun.com/post/22165)
+- [基于 Redis 实现热门文章排行榜功能](https://xueyuanjun.com/post/22169)
+- [基于 Redis 实现应用缓存功能](https://xueyuanjun.com/post/22171)
+- [基于 Redis 实现消息队列系统](https://xueyuanjun.com/post/22176)
+- [消息队列的优先级和失败任务重试](https://xueyuanjun.com/post/22177)
+- [基于消息队列实现事件监听和处理](https://xueyuanjun.com/post/22178)
+- [基于 Redis + Socket.io 实现事件消息广播功能](https://xueyuanjun.com/post/22179)
+- [基于 Redis 实现 Laravel 广播功能（上）：广播事件分发和底层源码探究](https://xueyuanjun.com/post/22180)
+- [基于 Redis 实现 Laravel 广播功能（中）：引入 Laravel Echo 接收广播消息](https://xueyuanjun.com/post/22181)
+- [基于 Redis 实现 Laravel 广播功能（下）：在私有频道和存在频道发布和接收消息](https://xueyuanjun.com/post/22182)
+- [基于 Redis 实现分布式锁及其在 Laravel 底层的实现源码](https://xueyuanjun.com/post/22183)
+- [Redis 分布式锁在 Laravel 任务调度底层实现中的应用](https://xueyuanjun.com/post/22185)
+- [基于 Redis 实现简单限流器及其在 Laravel 路由中间件中的应用](https://xueyuanjun.com/post/22186)
+- [基于 Redis 实现高级限流器及其在 Laravel 队列任务处理中的应用](https://xueyuanjun.com/post/22188)
+- [基于 Redis HyperLogLog 实现全站用户 UV 统计中间件](https://xueyuanjun.com/post/22189)
+- [基于 Redis 布隆过滤器实现数据去重及其在 Laravel 中的应用示例](https://xueyuanjun.com/post/22190)
+- [基于 Redis GEO 实现地理位置服务中查找附近 XXX 的功能](https://xueyuanjun.com/post/22191)
+- [基于 Redis 消息队列实现 Laravel 文件存储的异步多进程处理](https://xueyuanjun.com/post/22198)
