@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2edb015b-5226-47fd-8cfa-163c2fbc6b59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker/data/sailmysql/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/data/sailredis/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/#ib_16384_0.dblwr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/binlog.000028" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/binlog.000028" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/mysql.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/failed_jobs.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/failed_jobs.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/users.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/users.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/undo_001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +188,7 @@
       <workItem from="1609080903604" duration="5633000" />
       <workItem from="1609146947995" duration="541000" />
       <workItem from="1609174112054" duration="17296000" />
-      <workItem from="1609390891457" duration="5845000" />
+      <workItem from="1609390891457" duration="13348000" />
     </task>
     <servers />
   </component>
