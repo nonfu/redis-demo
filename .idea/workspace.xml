@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2edb015b-5226-47fd-8cfa-163c2fbc6b59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docker/data/sailmysql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/sailredis/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/binlog.000028" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/binlog.000028" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ib_logfile1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/failed_jobs.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/failed_jobs.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/users.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/redis_demo/users.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/sailmysql/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/sailmysql/undo_002" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +132,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker/data/sailredis" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -139,18 +151,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/data/sailredis" />
       <recent name="$PROJECT_DIR$/app/Http/Controllers" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/Models" />
       <recent name="$PROJECT_DIR$/app/Http/Middleware" />
-      <recent name="$PROJECT_DIR$/app/Console" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.SendRegistrationNotification.php">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="SendRegistrationNotification.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/Listeners/SendRegistrationNotification.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.SendRegistrationNotification.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -179,15 +199,12 @@
       <workItem from="1609080903604" duration="5633000" />
       <workItem from="1609146947995" duration="541000" />
       <workItem from="1609174112054" duration="17296000" />
-      <workItem from="1609390891457" duration="1238000" />
+      <workItem from="1609390891457" duration="5845000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
